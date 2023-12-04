@@ -27,9 +27,9 @@ N/A
 ## Usage
 The following image shows the web application's appearance and functionality:
 
-```md
+
 ![Application Screenshot](assets/images/screenshot.png)
-```
+
 
 ## Deployment
 Live URL: https://costea47.github.io/Code-Refactor-Lesson/
